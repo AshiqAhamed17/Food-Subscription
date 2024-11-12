@@ -1,3 +1,5 @@
+// javac -cp .:lib/mysql-connector-j-9.1.0.jar *.java
+// java -cp .:lib/mysql-connector-j-9.1.0.jar Main
 public class Main {
     public static void main(String[] args) {
         // Test the subscription system by creating a customer and meal plan
